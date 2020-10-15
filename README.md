@@ -33,7 +33,12 @@ run this in your terminal/console by entering node index.js
   
 ## Contributing
 
-Are you interested in contributing? Contact me below!
+Are you interested in contributing? 
+Visit these links:
+https://github.com/violettaval/Readme-File-Generator
+https://violettaval.github.io/Readme-File-Generator/ 
+
+Contact me below!
 
 ## Tests
 
